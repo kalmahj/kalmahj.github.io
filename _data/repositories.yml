@@ -1,7 +1,6 @@
 github_users:
-  - jeduapf
+  - kalmahj
 
+# Insert my repositories here
 github_repos:
-  - jeduapf/PINN-SPRING
-  - jeduapf/TCC
-  - jeduapf/ZeCo_backend
+  - kalmahj/Cartography
