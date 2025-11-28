@@ -1,98 +1,250 @@
 ---
 layout: default
 ---
-<style>
-  .cv-download a {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 10px 18px;
-    background: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: bold;
-  }
+<!DOCTYPE html>
+<html lang="en">
 
-  .cv-download a:hover {
-    background: #0056b3;
-  }
-</style>
-<!-- about.html -->
-<div class="post">
-  <header class="post-header">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Professional GIS Portfolio</title>
+  <style>
+    :root {
+      --primary-color: #2c3e50;
+      --accent-color: #8b7d6b;
+      --light-accent: #d4c5b9;
+      --background: #fdfbf7;
+      --text-primary: #2c3e50;
+      --text-secondary: #5a6c7d;
+      --border-subtle: #e8dfd5;
+    }
 
-    <h1 class="post-title">
-      {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-      {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-  </header>
+    body {
+      font-family: 'Cormorant Garamond', 'Georgia', serif;
+      background-color: var(--background);
+      color: var(--text-primary);
+      line-height: 1.8;
+      font-size: 18px;
+    }
 
-  <article>
-    {% if page.profile -%}
-    <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-      {%- if page.profile.image %}
-      {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+    .post {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 80px 40px;
+    }
 
-      {% if page.profile.image_circular %}
-      {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-      {% else %}
-      {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-      {% endif %}
+    .post-header {
+      text-align: center;
+      margin-bottom: 60px;
+      padding-bottom: 40px;
+      border-bottom: 1px solid var(--border-subtle);
+    }
 
-      <!-- Wrap the profile image in a CV download link
-              <a href="https://jeduapf.github.io/assets/pdf/CV.pdf"
-                download="CV_Jose_ALVES_en_fr_pt.pdf"
-                title="Download my CV">
-                {% include figure.html 
-                  path=profile_image_path 
-                  class=profile_image_class
-                  alt=page.profile.image -%}
-              </a> -->
-      {% endif -%}
-      {%- if page.profile.address %}
-      <div class="address">
-        {{ page.profile.address }}
+    .post-title {
+      font-size: 2.8em;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      margin-bottom: 20px;
+      color: var(--primary-color);
+    }
+
+    .font-weight-bold {
+      font-weight: 600;
+    }
+
+    .desc {
+      font-size: 1.1em;
+      color: var(--text-secondary);
+      font-style: italic;
+      letter-spacing: 0.03em;
+      margin-top: 15px;
+    }
+
+    .profile {
+      margin-bottom: 50px;
+    }
+
+    .profile.float-left {
+      float: left;
+      margin-right: 50px;
+      margin-bottom: 30px;
+    }
+
+    .profile.float-right {
+      float: right;
+      margin-left: 50px;
+      margin-bottom: 30px;
+    }
+
+    .profile img {
+      width: 260px;
+      height: 260px;
+      object-fit: cover;
+      border: 3px solid var(--light-accent);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .img-fluid.rounded-circle {
+      border-radius: 50%;
+    }
+
+    .img-fluid.rounded {
+      border-radius: 4px;
+    }
+
+    .profile img:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(139, 125, 107, 0.15);
+    }
+
+    .address {
+      margin-top: 25px;
+      font-size: 0.95em;
+      color: var(--text-secondary);
+      text-align: center;
+      font-family: 'Lato', 'Helvetica Neue', sans-serif;
+      letter-spacing: 0.5px;
+    }
+
+    .clearfix::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    article {
+      font-size: 1.05em;
+      line-height: 1.9;
+    }
+
+    article p {
+      margin-bottom: 1.5em;
+      text-align: justify;
+    }
+
+    .social {
+      margin-top: 60px;
+      padding-top: 40px;
+      border-top: 1px solid var(--border-subtle);
+      text-align: center;
+    }
+
+    .contact-icons {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      margin-bottom: 30px;
+    }
+
+    .contact-icons a {
+      color: var(--accent-color);
+      text-decoration: none;
+      font-size: 1.5em;
+      transition: color 0.3s ease, transform 0.3s ease;
+      font-family: 'Lato', sans-serif;
+      font-size: 0.95em;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      font-weight: 300;
+    }
+
+    .contact-icons a:hover {
+      color: var(--primary-color);
+      transform: translateY(-2px);
+    }
+
+    .contact-note {
+      color: var(--text-secondary);
+      font-size: 0.95em;
+      font-style: italic;
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.7;
+    }
+
+    /* News and Papers sections */
+    .news-section,
+    .papers-section {
+      margin-top: 60px;
+      padding-top: 40px;
+      border-top: 1px solid var(--border-subtle);
+    }
+
+    h2 {
+      font-size: 1.8em;
+      font-weight: 400;
+      margin-bottom: 30px;
+      color: var(--primary-color);
+      letter-spacing: 0.02em;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .post {
+        padding: 50px 25px;
+      }
+
+      .post-title {
+        font-size: 2.2em;
+      }
+
+      .profile.float-left,
+      .profile.float-right {
+        float: none;
+        margin: 0 auto 40px;
+        text-align: center;
+      }
+
+      .profile img {
+        width: 220px;
+        height: 220px;
+      }
+
+      .contact-icons {
+        flex-direction: column;
+        gap: 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        <!-- Your name from config -->
+      </h1>
+      <p class="desc"><!-- Your subtitle from config --></p>
+    </header>
+
+    <article>
+      <div class="profile float-right">
+        <img src="your-image-path.jpg" alt="Profile" class="img-fluid rounded-circle">
+        <div class="address">
+          <!-- Your address from config -->
+        </div>
       </div>
-      {%- endif %}
 
-    </div>
+      <div class="clearfix">
+        <!-- Your content will appear here -->
+      </div>
 
-
-
-
-</div>
-{%- endif %}
-
-<div class="clearfix">
-  {{ content }}
-</div>
-
-{% if page.news -%}
-<!-- News -->
-{%- include news.html %}
-{%- endif %}
-
-{% if page.selected_papers -%}
-<!-- Selected papers -->
-{%- include selected_papers.html %}
-{%- endif %}
-{%- if page.social %}
-
-<!-- Social -->
-<div class="social">
-  <div class="contact-icons">
-    {% include social.html %}
+      <div class="social">
+        <div class="contact-icons">
+          <!-- Your social links from config -->
+        </div>
+        <div class="contact-note">
+          <!-- Your contact note from config -->
+        </div>
+      </div>
+    </article>
   </div>
+</body>
 
-
-  <div class="contact-note">
-    {{ site.contact_note }}
-  </div>
-
-</div>
-{%- endif %}
-</article>
-
-</div>
+</html>
