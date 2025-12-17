@@ -20,8 +20,12 @@ selected_papers: false # inclut une liste de publications marquées comme "selec
 social: true  # inclut les icônes sociales en bas de la page
 ---
 
-Je suis **José Eduardo Alves Pereira Filho**, un **Data Scientist** de {{ 'now' | date: "%Y" | minus: 1998 }} ans spécialisé dans le secteur de l’**énergie**, avec de solides bases en ingénierie électrique.  
+Bonjour à tous les curieux ! Bienvenue sur mon site web !
 
-Mon parcours académique comprend un **double diplôme d’ingénieur** obtenu à la **UNICAMP** et à l’**École Centrale de Nantes**, où je me suis concentré sur l’analyse de données, le traitement du signal et de l’image, et où j’ai été reconnu comme le meilleur étudiant en génie électrique avec le **Prix CREA-SP 2022**. J’ai ensuite poursuivi un **Mastère Spécialisé en Optimisation des Systèmes Énergétiques (OSE)** à **MINES Paris – PSL**, avec un accent sur la modélisation financière, l’optimisation stochastique et l’économie de l’énergie.
+Je m'appelle **Kalma Hazara**, passionnée de SIG, avec un talent particulier pour la cartographie et l'analyse de données géographiques. Je maîtrise parfaitement **Python** (geopandas, folium, scikit, pandas), **QGIS** (PyGIS) et la **plateforme ESRI ArcGIS** (Pro, Online, Experience Builder). 
 
+Mon parcours universitaire a débuté en géographie, puisque j'ai obtenu ma licence en géographie et urbanisme à l'**université de la Sorbonne** en 2024. J'ai ensuite suivi un master professionnel en SIG et planification urbaine et des risques à l'**université CY Cergy Paris**, où j'ai également un contrat de travail en tant qu'analyste SIG chez **EDF**. 
 
+Je suis passionné par l'urbanisme, la préservation de l'environnement et la propreté urbaine. Je suis toujours à la recherche de nouvelles opportunités pour mettre en pratique mes compétences et mes connaissances. 
+
+N'hésitez pas à parcourir mon site web pour en savoir plus sur mon travail et mes centres d'intérêt. 

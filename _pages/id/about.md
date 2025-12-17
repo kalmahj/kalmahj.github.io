@@ -20,8 +20,14 @@ selected_papers: false # inclut une liste de publications marquées comme "selec
 social: true  # inclut les icônes sociales en bas de la page
 ---
 
-Je suis **José Eduardo Alves Pereira Filho**, un **Data Scientist** de {{ 'now' | date: "%Y" | minus: 1998 }} ans spécialisé dans le secteur de l’**énergie**, avec de solides bases en ingénierie électrique.  
+Halo para penasaran! Selamat datang di situs web saya!
 
-Mon parcours académique comprend un **double diplôme d’ingénieur** obtenu à la **UNICAMP** et à l’**École Centrale de Nantes**, où je me suis concentré sur l’analyse de données, le traitement du signal et de l’image, et où j’ai été reconnu comme le meilleur étudiant en génie électrique avec le **Prix CREA-SP 2022**. J’ai ensuite poursuivi un **Mastère Spécialisé en Optimisation des Systèmes Énergétiques (OSE)** à **MINES Paris – PSL**, avec un accent sur la modélisation financière, l’optimisation stochastique et l’économie de l’énergie.
+Nama saya **Kalma Hazara**, seorang penggemar GIS dengan keahlian dalam pemetaan dan analisis data geografis. Saya memiliki keterampilan yang kuat dalam **Python** (geopandas, folium, scikit, pandas), **QGIS** (PyGIS), dan platform **ESRI ArcGIS** (Pro, Online, Experience Builder). 
+
+Perjalanan akademik saya dimulai di bidang Geografi, di mana saya memperoleh gelar Sarjana Geografi dan Perencanaan Kota dari **Universitas Sorbonne Paris ** pada tahun 2024. Saya kemudian melanjutkan studi Magister Profesional dalam GIS & Perencanaan Kota & Risiko di **CY Cergy Paris Université**, di mana saya juga memiliki kontrak kerja sebagai Analis GIS di **EDF**. 
+
+Saya memiliki gairah yang kuat dalam perencanaan kota, pelestarian lingkungan, dan kebersihan kota. Saya selalu mencari peluang baru untuk menerapkan keterampilan dan pengetahuan saya. 
+
+Silakan jelajahi situs web saya untuk mengetahui lebih lanjut tentang pekerjaan dan minat saya. 
 
 
