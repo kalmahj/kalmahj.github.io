@@ -1,12 +1,12 @@
 ---
 layout: about
 title: À propos
-permalink: /fr/about/
+permalink: /nl/about/
 translations:
   en: /en/about/
   pt: /pt/about/
 nav: false
-lang: fr
+lang: nl
 key: about
 profile:
   align: right
