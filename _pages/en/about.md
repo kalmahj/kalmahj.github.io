@@ -22,23 +22,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello curious people ! My name is **Kalma Hazara**, a GIS enthusiast with a knack for mapping and geographic data analysis. 
+Hello curious people ! Welcome to my website !
 
-**My main skills** : 
-- **Geodata analysis** : Python 
-- **Mapping and geospatial analysis** : QGIS, ArcGIS
-- **Remote sensing** : ENVI
+My name is **Kalma Hazara**, a GIS enthusiast with a knack for mapping and geographic data analysis. I have strong skills in **Python** (geopandas, folium, scikit, pandas), **QGIS** (PyGIS) and the **ESRI ArcGIS platform** (Pro, Online, Experience Builder). 
 
-**My current activities** : 
-- **Master's degree in GIS & Urban Planning** at **CY Cergy Paris Université** (2026)
-- **GIS analyst apprentice** at **EDF**
+My academic journey started in Geography, as I obtained my Bachelor's degree in Geography and Urban Planning from **Sorbonne University** in 2024. I then pursued a Professional Master's degree in GIS & Urban Planning & Risk Planning at **CY Cergy Paris Université** to which I also have a work contract as a GIS Analyst in **EDF**. 
 
-**Education** : 
-- **Master's degree in GIS & Urban Planning** at **CY Cergy Paris Université** (2026)
-- **Bachelor's degree in Geography and Urban Planning** from **Sorbonne University Paris** (2021)
+I have a strong passion for urban planning, environmental preservation, and urban cleanliness. (clean cities). I am always looking for new opportunities to apply my skills and knowledge. 
 
-**My Passions** : 
-- Urban cleanliness / Clean cities
-- Environmental preservation
-
-**I am seeking PhD opportunities in Urban Planning, GIS, Remote Sensing, or Environmental Science. If my profile aligns with your research interests, feel free to contact me by clicking the icons below**
+Feel free to browse through my website to learn more about my work and interests. 
