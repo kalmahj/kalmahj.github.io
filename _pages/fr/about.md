@@ -4,7 +4,8 @@ title: À propos
 permalink: /fr/about/
 translations:
   en: /en/about/
-  pt: /pt/about/
+  id: /id/about/
+  nl: /nl/about/
 nav: false
 lang: fr
 key: about

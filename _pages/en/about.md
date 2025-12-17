@@ -8,7 +8,8 @@ key: about
 permalink: /en/about/
 translations:
   fr: /fr/about/
-  pt: /pt/about/
+  id: /id/about/
+  nl: /nl/about/
 
 profile:
   align: right
