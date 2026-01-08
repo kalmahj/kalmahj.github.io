@@ -29,7 +29,7 @@ This personal website is a medium to show you my skills and projects I have done
 <!-- Button to Project -->
 <style>
 .btn-feminine {
-    background-color: #c07882 !important; /*  Dusty pink */
+    background-color: #b0dee6ff !important; /* Dusty pink */
     border: none;
     color: white !important;
     padding: 12px 35px;
@@ -40,10 +40,6 @@ This personal website is a medium to show you my skills and projects I have done
     box-shadow: 0 4px 10px rgba(192, 120, 130, 0.3); /* Soft shadow */
     text-decoration: none;
     display: inline-block;
-    
-    /* THE MAGICAL ANIMATION LINE */
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); 
-}
 
 /* This block defines what happens when you Hover */
 .btn-feminine:hover {
@@ -56,5 +52,5 @@ This personal website is a medium to show you my skills and projects I have done
 
 <br>
 <div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
-    <a href="/en/projects/" class="btn-feminine">✨ Discover my Projects</a>
+    <a href="/en/projects/" class="btn-feminine"> Click here to Discover my Projects</a>
 </div>
