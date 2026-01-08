@@ -21,14 +21,7 @@ selected_papers: false # inclut une liste de publications marquées comme "selec
 social: true  # inclut les icônes sociales en bas de la page
 ---
 
-Halo para penasaran! Selamat datang di situs web saya!
+Halo para penasaran ! Selamat datang di situs web saya ! Nama saya **Kalma Hazara**, seorang penggemar GIS, pemetaan dan analisis data geografis. Peta adalah cara favorit saya untuk menceritakan kisah dan mengungkap realitas kompleks yang ada di dunia kita.
 
-Nama saya **Kalma Hazara**, seorang penggemar GIS dengan keahlian dalam pemetaan dan analisis data geografis. Saya memiliki keterampilan dalam **Python** (geopandas, folium, scikit, pandas), **QGIS** (PyGIS), dan platform **ESRI ArcGIS** (Pro, Online, Experience Builder). 
-
-Perjalanan akademik saya dimulai di bidang Geografi, di mana saya memperoleh gelar Sarjana Geografi dan Perencanaan Kota dari **Universitas Sorbonne Paris** pada tahun 2024. Saya kemudian melanjutkan studi S2 Profesional dalam GIS & Perencanaan Kota & Risiko di **CY Cergy Paris Université**, di mana saya juga memiliki kontrak kerja sebagai Analis GIS di **EDF**. 
-
-Saya memiliki gairah yang kuat dalam perencanaan kota, pelestarian lingkungan, dan kebersihan kota. Saya selalu mencari peluang baru untuk menerapkan keterampilan dan pengetahuan saya. 
-
-Silakan jelajahi situs web saya untuk mengetahui lebih lanjut tentang pekerjaan dan minat saya. 
-
+Situs web pribadi ini adalah media untuk menunjukkan kepada Anda keterampilan dan proyek yang telah saya lakukan. Saya adalah orang yang penasaran dan selalu mencari tantangan baru untuk belajar dan berkembang. Jangan ragu untuk melihat apa yang bisa saya lakukan !
 

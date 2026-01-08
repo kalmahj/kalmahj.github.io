@@ -23,12 +23,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello curious people ! Welcome to my website !
+Hello curious people ! Welcome to my website ! My name is **Kalma Hazara**, a GIS enthusiast with a knack for mapping and geographic data analysis. Maps are my favourite way of telling stories and revealing realities, whether tangible (physical geography) or intangible (social geography).
 
-My name is **Kalma Hazara**, a GIS enthusiast with a knack for mapping and geographic data analysis. I have strong skills in **Python** (geopandas, folium, scikit, pandas), **QGIS** (PyGIS) and the **ESRI ArcGIS platform** (Pro, Online, Experience Builder). 
+This personal website is a medium to show you my skills and projects I have done. I am a naturally curious person and I am always looking for new challenges to learn and grow. Don't hesitate to see what I can do !
 
-My academic journey started in Geography, as I obtained my Bachelor's degree in Geography and Urban Planning from **Sorbonne University** in 2024. I then pursued a Professional Master's degree in GIS & Urban & Risk Planning at **CY Cergy Paris Université** to which I also have a work contract as a GIS Analyst in **EDF**. 
-
-I have a strong passion for urban planning, environmental preservation, and urban cleanliness. I am always looking for new opportunities to apply my skills and knowledge. 
-
-Feel free to browse through my website to learn more about my work and interests. 
+<br>
+<a href="/en/projects/" class="btn btn-primary btn-lg">Click here to discover my projects</a>

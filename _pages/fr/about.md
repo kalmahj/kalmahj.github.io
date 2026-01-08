@@ -21,12 +21,6 @@ selected_papers: false # inclut une liste de publications marquées comme "selec
 social: true  # inclut les icônes sociales en bas de la page
 ---
 
-Bonjour à tous les curieux ! Bienvenue sur mon site web !
+Bonjour les curieux ! Bienvenue sur mon site web ! Je m'appelle **Kalma Hazara**, passionnée par le SIG, la cartographie et l'analyse de données géographiques. Les cartes sont mon moyen préféré pour raconter des histoires et révéler des réalités tangibles (géographie physique) ou non tangibles (géographie sociale).
 
-Je m'appelle **Kalma Hazara**, passionnée de SIG, avec un intérêt particulier pour la cartographie et l'analyse de données géographiques. Je maîtrise bien **Python** (geopandas, folium, scikit, pandas), **QGIS** (PyGIS) et la **plateforme ESRI ArcGIS** (Pro, Online, Experience Builder). 
-
-Mon parcours universitaire débute en géographie, puisque j'ai obtenu ma licence en géographie et urbanisme à **Sorbonne Université** en 2024. J'ai ensuite suivi un master en alternance en Géomatique appliquée aux études urbaines et aux risques à **CY Cergy Paris Université**, où j'ai également un contrat d'alternance en tant que Géoamticienne à **EDF**. 
-
-Je suis passionné par l'urbanisme, la préservation de l'environnement et la propreté urbaine. Je suis toujours à la recherche de nouvelles opportunités pour mettre en pratique mes compétences et mes connaissances. 
-
-N'hésitez pas à parcourir mon site web pour en savoir plus sur mon travail et mes centres d'intérêt. 
+Ce site web personnel est un moyen de vous montrer mes compétences et les projets que j'ai réalisés. Je suis une personne naturellement curieuse et je suis toujours à la recherche de nouveaux défis pour apprendre et évoluer. N'hésitez pas à découvrir ce que je sais faire !
