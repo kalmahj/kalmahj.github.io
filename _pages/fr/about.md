@@ -24,31 +24,42 @@ Bonjour les curieux ! Bienvenue sur mon site web ! Je m'appelle **Kalma Hazara**
 
 Ce site web personnel est un moyen de vous montrer mes compétences et les projets que j'ai réalisés. Je suis une personne naturellement curieuse et je suis toujours à la recherche de nouveaux défis pour apprendre et évoluer. N'hésitez pas à découvrir ce que je sais faire !
 
-<!-- Button to Project -->
+<!-- Button with Flip Animation & No Line -->
 <style>
-.btn-feminine {
-    background-color: #b0dee6ff !important; /* Dusty pink */
-    border: none;
+.btn-flip {
+    background-color: #539eacff !important; /* Your Blue */
     color: white !important;
     padding: 12px 35px;
-    border-radius: 50px; /* Pill shape */
+    border-radius: 50px;
     font-size: 1.1rem;
     font-weight: 500;
     letter-spacing: 0.5px;
-    box-shadow: 0 4px 10px rgba(192, 120, 130, 0.3); /* Soft shadow */
-    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(176, 222, 230, 0.4);
+    
+    /* FORCE REMOVE UNDERLINE */
+    text-decoration: none !important;
+    border: none !important;
+    
     display: inline-block;
+    
+    /* ANIMATION SETUP */
+    /* We use '0.6s' so the flip is slow enough to see */
+    transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
 
-/* This block defines what happens when you Hover */
-.btn-feminine:hover {
-    background-color: #ad606b !important; /* Gets slightly deeper in color */
-    transform: scale(1.05) translateY(-3px); /* 1. Grows 5% larger, 2. Moves UP 3px */
-    box-shadow: 0 10px 25px rgba(192, 120, 130, 0.5); /* Shadow grows big and soft */
-    cursor: pointer;
+.btn-flip:hover {
+    background-color: #539eac !important; /* Pink on hover */
+    box-shadow: 0 10px 25px rgba(173, 96, 107, 0.4);
+    color: white !important; /* Keeps text white */
+    
+    /* THE FLIP */
+    /* Rotates the button 360 degrees horizontally */
+    transform: rotateX(360deg); 
 }
 </style>
 
 <br>
 <div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
-    <a href="/fr/projects/" class="btn-feminine"> Cliquer ici pour découvrir mes projets</a>
+    <!-- Remember to check the link (/fr/projects/ vs /en/projects/) -->
+    <a href="/fr/projects/" class="btn-flip"> Cliquer ici pour découvrir mes projets</a>
 </div>
