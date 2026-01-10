@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Projets
-lang: fr
+lang: id
 key: projects
-permalink: /fr/projects/
+permalink: /id/projects/
 translations:
   en: /en/projects/
-  pt: /pt/projects/
+  fr: /fr/projects/
+  nl: /nl/projects/
 description: Une collection de quelques projets intéressants.
 nav: false
 nav_order: 2
