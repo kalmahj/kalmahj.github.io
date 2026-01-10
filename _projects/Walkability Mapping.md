@@ -3,7 +3,7 @@ layout: page
 title: Walkability Mapping
 permalink: /projects/walkability-mapping/
 description: An walkability analysis of a city using only OSM open data and code. 
-img: assets/img/walkability_thumbnail.png
+img: assets/img/walkability_thumbnail.PNG
 importance: 1
 category: Mapping
 lang: en
