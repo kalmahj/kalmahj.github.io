@@ -29,14 +29,14 @@ This personal website is a medium to show you my skills and projects I have done
 <!-- Button with Flip Animation & No Line -->
 <style>
 .btn-flip {
-    background-color: #539eacff !important; /* Your Blue */
+    background-color: #539eac !important;
     color: white !important;
     padding: 12px 35px;
     border-radius: 50px;
     font-size: 1.1rem;
     font-weight: 500;
     letter-spacing: 0.5px;
-    box-shadow: 0 4px 10px rgba(176, 222, 230, 0.4);
+    box-shadow: 0 4px 10px rgba(83, 158, 172, 0.4);
     
     /* FORCE REMOVE UNDERLINE */
     text-decoration: none !important;
@@ -50,7 +50,7 @@ This personal website is a medium to show you my skills and projects I have done
 }
 
 .btn-flip:hover {
-    background-color: #539eac !important; /* Pink on hover */
+    background-color: #ad606b !important; /* Pink on hover */
     box-shadow: 0 10px 25px rgba(173, 96, 107, 0.4);
     color: white !important; /* Keeps text white */
     
