@@ -5,7 +5,7 @@ permalink: /projects/sgur-article/
 description: A deep dive into the SGUR project with interactive translation.
 img: assets/img/publication_preview.jpg
 importance: 3
-category: Research
+category: Articles
 lang: en
 ---
 
