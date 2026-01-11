@@ -2,7 +2,7 @@
 layout: page
 title: Walkability Mapping
 permalink: /projects/walkability-mapping/
-description: An walkability analysis of a city using only OSM open data and code. 
+description: A walkability analysis of a city of your choice using only OSM open data and python code. 
 img: assets/img/walkability_thumbnail.PNG
 importance: 1
 category: Mapping
@@ -13,12 +13,12 @@ lang: en
 Cities love to talk about walkability. But how walkable is a city in practice when daily mobility depends so heavily on public transport?
 This project explores that question by producing a spatial walkability score based on access to public transport stops, using only OSM open data and geospatial tools.
 
-*This code was heavily inspired by Afagh Zeydani on Linkedin. Lots of credit go to him for his work and for sharing it with the community.*
+*This code was heavily inspired by Afagh Zeydani on Linkedin. Lots of credit goes to him for his work and for sharing it with the community.*
 
 ## What you'll expect
-- A walkability score in meters which can be altered to your liking
+- A walkability score in a box of a sqm of your choice
 - A map of the city with the walkability score + transport stops
-- An automatic html map generation
+- An automatic html map generation 
 
 ## How to use it
 My code is very intuitive. All you need to do is modify the location name in the beginning of the code and run it! 
@@ -66,7 +66,11 @@ city = "Amsterdam, Netherlands"
     </a>
 </div>
 
-Or copy this python code and paste it on your coding environment !
+<div style="text-align: center; margin-top: 50px; margin-bottom: 50px;">
+    <p>Or copy this python code and paste it on your coding environment !</p>
+    <details>
+        <summary class="btn-flip" style="cursor: pointer; list-style: none;">Reveal the code</summary>
+        <div style="text-align: left; margin-top: 20px;" markdown="1">
 
 ```python
 """
@@ -325,3 +329,6 @@ folium.LayerControl(collapsed=False).add_to(walkability_map)
 output_path = r"C:\Users\Pc\Downloads\amsterdam_walkability_map.html"
 walkability_map.save(output_path)
 ```
+        </div>
+    </details>
+</div>
