@@ -3,14 +3,14 @@ layout: page
 title: 3D Building Modelling
 permalink: /projects/3d-building-modelling/
 description: A multipatch 3D building model created using LiDar points and ArcGIS geoprocessing tools.
-img: assets/img/arcgis_3d_building_modelling_thumbnail.PNG
+img: assets/img/lidar_thumbnail.PNG
 importance: 1
 category: Mapping
 lang: en
 ---
 
 ## Project Description
-LiDar data is a powerful tool for creating 3D models of objects. In this project, I used LiDar data and ArcGIS geoprocessing tools to create a multipatch 3D model of a Dutch village using ArcGIS Pro. The village I chose to model is **Gulpen, Netherlands**.
+LiDar data is a powerful tool for creating 3D models of objects. In this project, I used LiDar data and ArcGIS geoprocessing tools to create a multipatch 3D model Gulpen, Netherlands using ArcGIS Pro. 
 
 ## What is Lidar data?
 Light Detection and Ranging (lidar) is a technology used to create high-resolution models of ground elevation with a vertical accuracy of 10 centimeters (4 inches). Lidar equipment, which includes a laser scanner, a Global Positioning System (GPS), and an Inertial Navigation System (INS), is typically mounted on a small aircraft. 
