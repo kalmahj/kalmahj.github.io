@@ -10,12 +10,16 @@ lang: en
 ---
 
 ## Project Description
-LiDar data is a powerful tool for creating 3D models of buildings. In this project, I used LiDar data and ArcGIS geoprocessing tools to create a multipatch 3D building model. The result is a 3D model of the city of Gulpen, Netherlands.
+LiDar data is a powerful tool for creating 3D models of objects. In this project, I used LiDar data and ArcGIS geoprocessing tools to create a multipatch 3D model of a Dutch village using ArcGIS Pro. The village I chose to model is **Gulpen, Netherlands**.
 
 ## What is Lidar data?
-LiDar data is a point cloud of a city. It is a 3D representation of a city. It is collected by airplanes or drones and it is a very accurate way to represent a city. 
+Light Detection and Ranging (lidar) is a technology used to create high-resolution models of ground elevation with a vertical accuracy of 10 centimeters (4 inches). Lidar equipment, which includes a laser scanner, a Global Positioning System (GPS), and an Inertial Navigation System (INS), is typically mounted on a small aircraft. 
 
-Modern cars use LiDar data to navigate through cities, or sense sudden obstacles on the road a normal camera can't catch.
+The laser scanner transmits brief pulses of light to the ground surface. **Those pulses are reflected or scattered back and their travel time is used to calculate the distance between the laser scanner and the ground** 
+
+Lidar data is initially collected as a “point cloud” of individual points reflected from everything on the surface, including structures and vegetation. To produce a “bare earth” Digital Elevation Model (DEM), structures and vegetation are stripped away (USGS, 2022).
+
+For example, modern cars use LiDar data to navigate through cities, or sense sudden obstacles on the road a normal camera can't catch.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -52,7 +56,7 @@ If you are in the US, you can access Lidar data from the USGS (US Geological Sur
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <a href="http://apps.nationalmap.gov/lidar-explorer/#/" target="_blank" class="btn-zoom">
-        Click here to access USGS Lidar data
+        Click here to access US Lidar data
     </a>
 </div>
 
@@ -60,7 +64,7 @@ If you are in France, I highly recommend you use the 3D Lidar by IGN (Institut G
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <a href="https://geoservices.ign.fr/lidarhd" target="_blank" class="btn-zoom">
-        Click here to access IGN Lidar data
+        Click here to access French Lidar data
     </a>
 </div>
 
