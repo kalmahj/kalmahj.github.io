@@ -22,7 +22,7 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello curious people ! Welcome to my website ! My name is **Kalma Hazara**, a GIS enthusiast with a knack for mapping and geographic data analysis. Maps are my favourite way of telling stories and revealing realities, whether tangible (physical geography) or intangible (social geography).
+My name is **Kalma Hazara**, a GIS enthusiast with a knack for mapping and geographic data analysis. Maps are my favourite way of telling stories and revealing realities, whether tangible (physical geography) or intangible (social geography).
 
 This personal website is a medium to show you my skills and projects I have done. I am a naturally curious person and I am always looking for new challenges to learn and grow. Don't hesitate to see what I can do !
 
