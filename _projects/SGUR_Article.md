@@ -113,6 +113,14 @@ body.dark-theme .text-translated {
                 <p>Overall, West Africa recorded the highest response rate (10%). That is why it seems interesting to focus on this region for the analysis (see map). With the United Nations regularly publishing surveys as part of its press service to plan their next actions, to what extent do participatory surveys allow for making visible the opinions and social needs of populations according to different geographical contexts?</p>
                 <h4>A means of raising awareness</h4>
                 <p>First of all, participatory surveys can serve as a means of raising awareness. The first question of the survey was this: "Did you know that children have a set of specific rights?". The answers (see graph) show us a strong reality: while the recognition of children's rights in the world seems to be inscribed in international texts, it is not always fully understood locally. The majority of respondents only recognize these rights partially, while full recognition of rights remains a minority. Indeed, this question can open eyes, raise awareness, and make respondents reflect on the social context of their country.</p>
+            </div>
+        </div>
+
+        <div class="translation-container">
+            <div class="text-content text-original">
+                <p><strong>Graphique 1 :</strong> « Saviez-vous que les enfants ont un ensemble de droits particuliers ? »</p>
+            </div>
+            <div class="text-content text-translated">
                 <p><strong>Graphic 1:</strong> "Did you know that children have a set of specific rights?"</p>
             </div>
         </div>
@@ -143,6 +151,14 @@ body.dark-theme .text-translated {
                 <p>Other countries also show high figures with Senegal (28%), Mali (25%), Niger (24%), and Benin (24%) having rates above a quarter of respondents. Only four countries among the 16 surveyed countries have a lower share such as Liberia (11%), Ghana (16%), Sierra Leone (18%), and Nigeria (18%).</p>
                 <h4>A means of speaking out</h4>
                 <p>According to a database published by the United Nations in March 2025 titled "Sexual Violence in Childhood", Central and West Africa rank first among regions where sexual abuse is most significant, followed by Southern and Eastern Africa (see graph). Among all abuses, unfortunately, it is girls who are most impacted. Indeed, these abuses include forced marriages, girls victims of genital mutilation and excision, as well as the highest adolescent pregnancy rate in the world (UNICEF, date unknown). Surveys like this one can help shed light on these injustices.</p>
+            </div>
+        </div>
+
+        <div class="translation-container">
+            <div class="text-content text-original">
+                <p><strong>Graphique 2 :</strong> « Part d'abus sexuels envers les enfants par région mondiale »</p>
+            </div>
+            <div class="text-content text-translated">
                 <p><strong>Graphic 2:</strong> "Share of sexual abuse against children by world region"</p>
             </div>
         </div>
@@ -163,10 +179,24 @@ body.dark-theme .text-translated {
                 <h4>Un moyen de rendre justice</h4>
                 <p>La sensibilisation et l'expression d'opinions sont des objectifs importants des sondages participatifs, mais leur impact sur la vie quotidienne dépend largement de la manière dont les résultats sont interprétés sur le terrain. Les enquêtes publiques peuvent donc devenir un moyen de rendre justice lorsque les citoyens se mettent en action. Vous trouverez ci-dessous quelques acteurs qui contribuent à la lutte contre la violence envers les enfants en Afrique de l'Ouest.</p>
                 <ul>
-                    <li><strong>Hindou Laghdaf (Mauritanie)</strong>: « La violence sexuelle a toujours été un sujet tabou en Mauritanie, et les familles réglaient généralement les problèmes entre elles. Nous avons sensibilisé les écoles et les médias à l'existence de nos brigades spécialisées pour les mineurs, afin que les familles connaissent mieux leurs droits et soient désormais plus enclines à venir elles-mêmes porter plainte. » (Pour voir son témoignage, cliquez sur Hindou Laghdaf)</li>
+                    <li><strong>Hindou Laghdaf (Mauritanie)</strong>: « La violence sexuelle a toujours été un sujet tabou en Mauritanie, et les familles réglaient généralement les problèmes entre elles. Nous avons sensibilisé les écoles et les médias à l'existence de nos brigades spécialisées pour les mineurs, afin que les familles connaissent mieux leurs droits et soient désormais plus enclines à venir elles-mêmes porter plainte. »</li>
                     <li><strong>CNLTPPA (Guinée)</strong>: En Guinée, la forme la plus courante de violence envers les enfants est la traite des personnes. L'exemple le plus courant est celui des porteurs. 69% des enfants victimes de la trafique humaine à Boké et 61% à Mamou sont amenés à porter de lourdes charges sur les marchés ou dans les gares routières (Okesh & al., 2022). Le Comité National de Lutte contre la Traite des Personnes (CNLTP) est la principale plateforme de coordination pour les politiques de lutte contre cette violence.</li>
                     <li><strong>SAFIN (Nigéria)</strong>: « L'initiative Save the Future of Children [...] a aidé plus de 20 000 enfants en leur fournissant divers services de protection sociale. Elle a été fondée en réponse à l'augmentation alarmante des violations des droits des enfants, notamment les mariages d’enfants, l'exploitation, les abus sexuels, le travail des enfants, la traite des enfants, la violence à l'encontre des enfants, la négligence et la pauvreté infantile » (Site SAFIN)</li>
                 </ul>
+            </div>
+        </div>
+
+        <div class="translation-container">
+            <div class="text-content text-original">
+                <p>Pour voir le témoignage de Hindou Laghdaf : <a href="https://www.youtube.com/watch?v=g-vMzj86LMI&t=2s" target="_blank">https://www.youtube.com/watch?v=g-vMzj86LMI&t=2s</a><br><iframe width="100%" height="200" src="https://www.youtube.com/embed/g-vMzj86LMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+            </div>
+            <div class="text-content text-translated">
+                <p>To watch Hindou Laghdaf's testimony: <a href="https://www.youtube.com/watch?v=g-vMzj86LMI&t=2s" target="_blank">https://www.youtube.com/watch?v=g-vMzj86LMI&t=2s</a><br><iframe width="100%" height="200" src="https://www.youtube.com/embed/g-vMzj86LMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+            </div>
+        </div>
+
+        <div class="translation-container">
+            <div class="text-content text-original">
                 <h4>Conclusion et limites</h4>
                 <p>Il a été observé que les sondages participatifs peuvent être un moyen de sensibilisation, de prise de parole, et de la justice. Malgré ces atouts, elles peuvent avoir ses limites. Tout d'abord, il est possible que les résultats ne soient pas représentatifs de l'ensemble de la population. Dans ce cas précis, le nombre des répondants de chaque pays ne dépassait jamais 2000. Il nous sera donc impossible de connaître la proportion réelle de ce que pense toute la population de l'Afrique occidentale. Ensuite, il est possible que les résultats soient influencés par des facteurs culturels ou sociaux. En effet, certaines personnes ne sont pas enclines à exprimer des avis critiques sur des sujets sensibles comme les violences ou les discriminations. Enfin, même si les sondages participatifs font parler les citoyens, les autorités ne sont pas toujours en mesure ou ne veulent pas les traduire en actions concrètes. Ce qui nous fait questionner de son efficacité. Nous pouvons donc nous demander : comment pourrions-nous optimiser la diffusion, le partage d’opinions et l’efficacité des sondages participatifs ?</p>
             </div>
@@ -175,7 +205,7 @@ body.dark-theme .text-translated {
                 <h4>A means of delivering justice</h4>
                 <p>Awareness and expression of opinions are important goals of participatory surveys, but their impact on daily life largely depends on how the results are interpreted on the ground. Public inquiries can therefore become a means of justice when citizens take action. Below are some actors contributing to the fight against violence towards children in West Africa.</p>
                  <ul>
-                    <li><strong>Hindou Laghdaf (Mauritania)</strong>: "Sexual violence has always been a taboo subject in Mauritania, and families generally settled problems among themselves. We have raised awareness in schools and the media about the existence of our specialized brigades for minors, so that families know their rights better and are now more inclined to come and file a complaint themselves." To watch Hindou Laghdaf's testimony : <a href="https://www.youtube.com/watch?v=g-vMzj86LMI&t=2s" target="_blank">https://www.youtube.com/watch?v=g-vMzj86LMI&t=2s</a><br><iframe width="100%" height="200" src="https://www.youtube.com/embed/g-vMzj86LMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+                    <li><strong>Hindou Laghdaf (Mauritania)</strong>: "Sexual violence has always been a taboo subject in Mauritania, and families generally settled problems among themselves. We have raised awareness in schools and the media about the existence of our specialized brigades for minors, so that families know their rights better and are now more inclined to come and file a complaint themselves."</li>
                     <li><strong>CNLTPPA (Guinea)</strong>: In Guinea, the most common form of violence against children is human trafficking. The most common example is that of porters. 69% of child victims of human trafficking in Boké and 61% in Mamou are led to carry heavy loads in markets or bus stations (Okesh et al., 2022). The National Committee against Trafficking in Persons (CNLTP) is the main coordination platform for policies to combat this violence.</li>
                     <li><strong>SAFIN (Nigeria)</strong>: "The Save the Future of Children initiative [...] has helped over 20,000 children by providing them with various social protection services. It was founded in response to the alarming increase in child rights violations, including child marriage, exploitation, sexual abuse, child labor, child trafficking, violence against children, neglect, and child poverty" (SAFIN Website)</li>
                 </ul>
