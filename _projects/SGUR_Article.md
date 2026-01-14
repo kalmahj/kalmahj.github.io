@@ -29,7 +29,6 @@ Below you can read the full article with interactive translation. **Hover over t
     background-color: #f8f9fa;
     transition: opacity 0.4s ease;
     border-left: 5px solid #539eac;
-    height: 100%; /* Ensure equal height */
 }
 
 .text-original {
@@ -42,7 +41,7 @@ Below you can read the full article with interactive translation. **Hover over t
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    min-height: 100%;
     opacity: 0;
     background-color: #fff;
     z-index: 10;
