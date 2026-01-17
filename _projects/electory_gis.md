@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Electoral GIS during the European Elections 2024
 permalink: /projects/electory_gis/
 description: Revealing electoral realities through mapping during the European Elections 2024
