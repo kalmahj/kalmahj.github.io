@@ -53,11 +53,17 @@ Master in Applied Geomatics for Urban Studies and Risks
 
 The images are extracted from the official website of the United States Geological Survey (USGS Earth Explorer), from two different Landsat satellites. Here is a table detailing each image I used.
 
+<div style="display: flex; justify-content: center;">
+
 |  | ACQUISITION DATE | SATELLITE |
 | :---- | ----- | ----- |
 | **IMAGE 1** | 01/05/1984 | Landsat 5 |
 | **IMAGE 2** | 01/09/2011 | Landsat 5 |
 | **IMAGE 3** | 01/05/2024 | Landsat 7 |
+
+</div>
+
+<br>
 
 ## METHODOLOGY
 
@@ -71,17 +77,23 @@ On USGS, the raw images provided to us are often larger than our study perimeter
 
 In true colors, distinguishing buildings from green space was a challenge. Thus, by playing with the bands in the RGB channels, I chose a combination that allows visualizing the different elements more clearly: false color. Here are the parameters I used for my images depending on their satellite type:  
 
+<div style="display: flex; justify-content: center;">
+
 |  | LANDSAT 5 | LANDSAT 7 |
 | :---- | ----- | ----- |
 | **Red** | Band 4 (Near Infrared) | Band 5 (Near Infrared) |
 | **Green** | Band 3 (Red) | Band 4 (Red) |
 | **Blue** | Band 2  (Green) | Band 3 (Green) |
 
+</div>
+
+<br>
+
 ### 3. NDVI Calculation
 
 The Normalized Difference Vegetation Index, or NDVI, measures the greenery and density of vegetation captured by the satellite image. It ranges between -1 and 1. The tool I will use on ENVI is called ‘Band Maths’. It is a tool that allows applying a mathematical operation or a custom function to one or more bands of an image. I will apply this NDVI formula for each of my images :
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center" style="text-align: center;">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ndvi_calculation.png" title="NDVI calculation" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -140,7 +152,8 @@ This map (Figure 1), from an article written by Cayo Costa and Sugie Lee on the 
     </div>
 </div>
 <div class="caption">
-    Image 3: Brasilia (2024) in false colors (Linear 2%). Green: Frozen zone (commercial and institutional). Purple: Zone in constant evolution (residential)
+    Image 3: Brasilia (2024) in false colors (Linear 2%). <br>
+	<b>Green</b>: Frozen zone (commercial and institutional). <b>Purple</b>: Zone in constant evolution (residential)
 </div>
 
 This table below (Figure 2) details the constant rise in Brasilia's population. From the 1980s until 2015, the population almost doubled, but its density surprisingly decreased. This leads us to suppose that Brasilia is not in a logic of densification, but rather of urban sprawl. Given that the city follows Le Corbusier's theory of functionalism, the city uses the capabilities of automobiles to expand beyond its limits.
@@ -249,7 +262,7 @@ AFP, GEO with. « Comment Brasilia est-elle devenue la capitale du Brésil en 19
 
 Costa, Cayo, and Sugi Lee. « The Evolution of Urban Spatial Structure in Brasília: Focusing on the Role of Urban Development Policies », January 17, 2019. [https://www.mdpi.com/2071-1050/11/2/553](https://www.mdpi.com/2071-1050/11/2/553).
 
-Guiral Bassi, Danilo. « Acampamentos, logements ouvriers et habitat informel : des chantiers aux quartiers populaires et villes satellites de Brasilia – pistes méthodologiques pour une histoire de l’urbanisme populaire ». *Les Cahiers d’Outre-Mer. Revue de géographie de Bordeaux* LXXIII, no 282 (July 1, 2020): 13-38. [https://doi.org/10.4000/com.11973](https://doi.org/10.4000/com.11973).
+Guiral Bassi, Danilo. « Acampamentos, logements ouvriers et habitat informel : des chantiers aux quartiers populaires et villes satellites de Brasilia – pistes méthodologiques pour une histoire de l’urbanisme populaire ». Les Cahiers d’Outre-Mer. Revue de géographie de Bordeaux LXXIII, no 282 (July 1, 2020): 13-38. [https://doi.org/10.4000/com.11973](https://doi.org/10.4000/com.11973).
 
 Mathieu, Marcia Regina de Andrade, Ana Maria Nogales Vasconcelos, Luiz Fernando Macedo Bessa, and Dominique Couret. « Brasilia, vers un développement urbain partagé ». *Géocarrefour* 90, no 1 (November 15, 2015): 15-25. [https://doi.org/10.4000/geocarrefour.9675](https://doi.org/10.4000/geocarrefour.9675).
 
