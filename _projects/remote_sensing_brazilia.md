@@ -270,8 +270,6 @@ Paulgar, Pauline. « Brasilia, de l’utopie à la réalité urbaine (diaporama)
 
 Universalis, Encyclopædia. « BRASÍLIA ». Encyclopædia Universalis. Accessed on January 4, 2025. [https://www.universalis.fr/encyclopedie/brasilia/](https://www.universalis.fr/encyclopedie/brasilia/).  
 
-[^1]:  Danilo Guiral Bassi, « *Acampamentos*, logements ouvriers et habitat informel : des chantiers aux quartiers populaires et villes satellites de Brasilia – pistes méthodologiques pour une histoire de l’urbanisme populaire », *Les Cahiers d’Outre-Mer* [Online], 282 | July-December, published online on January 01, 2023, accessed on January 03, 2025. URL : http://journals.openedition.org/com/11973 ; DOI : https://doi.org/10.4000/com.11973
-
 <!-- PDF Download Button -->
 <style>
 .btn-zoom {
