@@ -11,10 +11,10 @@ lang: id
 key: about
 profile:
   align: right
-  image: CV.png
+  image: profile.png
   image_circular: true # recadre l’image pour la rendre circulaire
   address: >
-    Bezons, France
+    Paris, France
 
 # news: false  # inclut une liste d’actualités
 selected_papers: false # inclut une liste de publications marquées comme "selected={true}"

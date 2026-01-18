@@ -13,7 +13,7 @@ translations:
 
 profile:
   align: right
-  image: CV.png
+  image: profile.png
   image_circular: true # crops the image to make it circular
   address: >
     Paris, France
