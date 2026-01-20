@@ -57,7 +57,7 @@
       institution: CNEF (Conseil National des Evangéliques de France)
       year: Nov 2025 - Sekarang
       description:
-        - "Kontrak freelance singkat untuk mengembangkan peta untuk tinjauan kartografi dan statistik CNEF""
+        - "Kontrak freelance singkat untuk mengembangkan peta untuk tinjauan kartografi dan statistik CNEF"
 
 - title: Keterampilan
   type: list
@@ -65,7 +65,7 @@
     - "Pemrograman: Python, SQL"
     - "Alat GIS: ArcGIS, QGIS"
     - "Penginderaan jauh: ENVI, Google Earth Engine"
-    - "Visualisasi Data: PowerBI, Tableau, Inkscape""
+    - "Visualisasi Data: PowerBI, Tableau, Inkscape"
     - "Kantor: Excel, Word, PowerPoint"
     - "Metode: Git, JIRA"
 
