@@ -56,7 +56,7 @@
       institution: CNEF (Conseil National des Evangéliques de France)
       year: Nov 2025 - Présent
       description:
-        - "Contrat de freelance court pour développer des cartes pour la revue cartographique et statistique du CNEF"
+        - "Contrat de freelance court pour développer des cartes pour la revue cartographique et statistique du CNEF""
 
 - title: Compétences
   type: list
@@ -64,7 +64,7 @@
     - "Programmation : Python, SQL"
     - "Outils SIG : ArcGIS, QGIS"
     - "Télédétection : ENVI, Google Earth Engine"
-    - "Visualisation de données : PowerBI, Tableau, Inkscape"
+    - "Visualisation de données : PowerBI, Tableau, Inkscape""
     - "Bureautique : Excel, Word, PowerPoint"
     - "Méthodes : Git, JIRA"
 
