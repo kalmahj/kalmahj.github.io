@@ -8,10 +8,10 @@ translations:
   nl: /nl/certification/
   id: /id/certification/
 permalink: /fr/certification/
-description: Mes prix, certifications et diplômes.
+description: Mes prix, certifications et réalisations.
 nav: true
 nav_order: 3
-display_categories: [Prix, Certificats, Diplômes]
+display_categories: [Prix, Certificats, Réalisations]
 horizontal: false
 ---
 
@@ -23,17 +23,17 @@ horizontal: false
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_items = lang_items | where: "category", category -%}
   {%- assign sorted_items = categorized_items | sort: "importance" %}
-  <div class="grid">
+  <div class="certification-list mb-5">
     {%- for project in sorted_items -%}
-      {% include projects.html %}
+      {% include certifications.html %}
     {%- endfor %}
   </div>
   {% endfor %}
 {%- else -%}
   {%- assign sorted_items = lang_items | sort: "importance" -%}
-  <div class="grid">
+  <div class="certification-list mb-5">
     {%- for project in sorted_items -%}
-      {% include projects.html %}
+      {% include certifications.html %}
     {%- endfor %}
   </div>
 {%- endif -%}
