@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TOEIC - Tes Kemahiran Bahasa Inggris
+title: TOEIC - Tes Bahasa Inggris
 description: 965/990 (Mencapai Level Tertinggi - C1)
 importance: 1
 category: Sertifikat

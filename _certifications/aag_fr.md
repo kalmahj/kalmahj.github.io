@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intervenant académique à la réunion annuelle 2026 de l'AAG
+title: Intervenante à la conférence de l'AAG 2026
 description: Association Américaine des Géographes, San Francisco - USA
 importance: 2
 category: Réalisations
@@ -8,9 +8,9 @@ lang: fr
 ---
 
 ## Contexte 
-J'ai été choisi parmi mes camarades pour présenter mon mémoire de master intitulé **Analyse spatiale de l'adoption des véhicules électriques en France : Intégration des facteurs socio-économiques et territoriaux** lors de la réunion annuelle 2026 de l'AAG à San Francisco, aux États-Unis.
+J'ai été choisi parmi mes camarades pour présenter mon mémoire de master intitulé **Analyse spatiale de l'adoption des véhicules électriques en France : Intégration des facteurs socio-économiques et territoriaux** lors de la conférence annuelle 2026 de l'AAG à San Francisco, aux États-Unis.
 
-Le résumé fait partie de la **session d'optimisation et d'analyse spatiale**.
+Mon mémoire fait partie de la **session d'optimisation et d'analyse spatiale**.
 
 ## Date de présentation
 **17 mars 2026**
@@ -50,7 +50,7 @@ Le résumé fait partie de la **session d'optimisation et d'analyse spatiale**.
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         <div class="translation-container">
-             {% include figure.html path="assets/img/aag_abstract.PNG" caption="Résumé de mon mémoire de maîtrise, publié sur le site de l'AAG (Survolez pour lire la traduction)" class="img-fluid rounded z-depth-1" %}
+             {% include figure.html path="assets/img/aag_abstract.PNG" caption="Résumé de mon mémoire de master, publié sur le site de l'AAG (Survolez pour lire la traduction)" class="img-fluid rounded z-depth-1" %}
              <div class="translation-hover">
                 <strong>Résumé (Traduction)</strong><br><br>
                 Alors que le secteur des transports devient l'un des plus polluants en termes d'émissions de dioxyde de carbone en France (30 % des émissions selon le ministère de l'Écologie), notamment au sein des véhicules particuliers, la transition vers les voitures électriques est devenue une priorité pour les politiques publiques du pays, malgré les critiques qu'une telle politique suscite (Haidar & Aguilar Rojas, 2021). Au niveau européen, l'Union européenne a mis en œuvre une nouvelle stratégie de croissance pour ses pays, qui consiste à les transformer en sociétés et économies efficaces, caractérisées par des émissions nettes de gaz à effet de serre nulles d'ici 2050 (Règlement 2021/1119 du Parlement européen et du Conseil, 2021).<br><br>

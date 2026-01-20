@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TOEIC - Test de compétence en anglais
+title: TOEIC - Test d'anglais
 description: 965/990 (Niveau C1, le plus haut niveau atteint)
 importance: 1
 category: Certificats

@@ -6,7 +6,8 @@ lang: en
 permalink: /en/cv/
 translations:
   fr: /fr/cv/
-  pt: /pt/cv/
+  nl: /nl/cv/
+  id: /id/cv/
 nav: true
 nav_order: 4
 cv_pdf: CV_en.pdf

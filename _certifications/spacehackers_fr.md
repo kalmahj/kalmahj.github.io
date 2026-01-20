@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vainqueur du SpaceHackers for Sustainability 2025
+title: Gagnante du SpaceHackers for Sustainability 2025
 description: Organisé par l'Arizona State University
 img: assets/img/1.jpg
 importance: 3
