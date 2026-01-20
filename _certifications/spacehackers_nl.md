@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Winnaar van SpaceHackers for Sustainability 2025
-description: Een 48-uurs hackathon om milieuproblemen in beeld te brengen met ruimtevaartdata en technologieën (Georganiseerd door Arizona State University)
+description: Georganiseerd door Arizona State University
 img: assets/img/1.jpg
 importance: 3
 category: Prijzen
@@ -9,12 +9,12 @@ lang: nl
 ---
 
 ## Evenementbeschrijving
-Een 48-uurs hackathon om milieuproblemen in beeld te brengen met ruimtevaartdata en technologieën, georganiseerd door Arizona State University.
+Een 48-uurs hackathon om milieuproblemen in beeld te brengen met ruimtevaartdata en technologieën. 
 
-Als onderdeel van een team van 5 studenten van **CY Paris University**, eindigden we als eerste bij de SpaceHackers 2025 tegen meer dan 200 teams. We gebruikten GIS- en Remote Sensing-tools om ons werk te presenteren.
+Als onderdeel van een team van 5 studenten van **CY Cergy Paris Université**, eindigden we als eerste bij de SpaceHackers 2025 tegen meer dan 200 teams. We gebruikten GIS- en Remote Sensing-tools om ons werk te presenteren.
 
 ## Onderwerp
-# Milieumigratie in de Sahel, Afrika
+**Milieu migratie in de Sahel, Afrika**
 
 ## Gebruikte apps :
 - ArcGIS

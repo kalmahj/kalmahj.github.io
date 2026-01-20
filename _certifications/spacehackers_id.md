@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pemenang SpaceHackers for Sustainability 2025
-description: Hackathon 48 jam untuk menggambarkan masalah lingkungan menggunakan data dan teknologi berbasis antariksa (Diselenggarakan oleh Arizona State University)
+description: Diselenggarakan oleh Arizona State University
 img: assets/img/1.jpg
 importance: 3
 category: Penghargaan
@@ -9,12 +9,12 @@ lang: id
 ---
 
 ## Deskripsi Acara
-Hackathon 48 jam untuk menggambarkan masalah lingkungan menggunakan data dan teknologi berbasis antariksa, diselenggarakan oleh Arizona State University.
+Hackathon 48 jam untuk menggambarkan masalah lingkungan menggunakan data dan teknologi berbasis antariksa.
 
-Sebagai bagian dari tim yang terdiri dari 5 mahasiswa dari **CY Paris University**, kami meraih juara pertama di SpaceHackers 2025 melawan lebih dari 200 tim. Kami menggunakan alat GIS dan Penginderaan Jauh untuk menampilkan karya kami.
+Sebagai bagian dari tim yang terdiri dari 5 mahasiswa dari **CY Cergy Paris University**, kami meraih juara pertama di SpaceHackers 2025 melawan lebih dari 200 tim. Kami menggunakan alat GIS dan Penginderaan Jauh untuk menampilkan karya kami.
 
 ## Topik
-# Migrasi lingkungan di Sahel Afrika
+**Migrasi lingkungan di Sahel Afrika**
 
 ## Aplikasi yang digunakan :
 - ArcGIS

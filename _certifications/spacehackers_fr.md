@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vainqueur du SpaceHackers for Sustainability 2025
-description: Un hackathon de 48 heures pour représenter les problèmes environnementaux à l'aide de données et technologies spatiales (Organisé par l'Arizona State University)
+description: Organisé par l'Arizona State University
 img: assets/img/1.jpg
 importance: 3
 category: Prix
@@ -9,12 +9,12 @@ lang: fr
 ---
 
 ## Description de l'événement
-Un hackathon de 48 heures pour représenter les problèmes environnementaux à l'aide de données et technologies spatiales, organisé par l'Arizona State University.
+Un hackathon de 48 heures pour représenter les problèmes environnementaux à l'aide de données et technologies spatiales.
 
-Faisant partie d'une équipe de 5 étudiants de **CY Paris Université**, nous sommes arrivés premiers au SpaceHackers 2025 face à plus de 200 équipes. Nous avons utilisé des outils SIG et de télédétection pour illustrer notre travail.
+Faisant partie d'une équipe de 5 étudiants de **CY Cergy Paris Université**, nous sommes arrivés premiers au SpaceHackers 2025 face à plus de 200 équipes. Nous avons utilisé des outils SIG et de télédétection pour illustrer notre travail.
 
 ## Sujet
-# Migration environnementale au Sahel en Afrique 
+**Migration environnementale au Sahel en Afrique** 
 
 ## Applications utilisées :
 - ArcGIS
