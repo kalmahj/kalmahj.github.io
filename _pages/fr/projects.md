@@ -9,9 +9,9 @@ translations:
   id: /id/projects/
   nl: /nl/projects/
 description: Une collection de quelques projets intéressants.
-nav: false
+nav: true
 nav_order: 2
-display_categories: [travail, cool]
+display_categories: [Mapping, Articles]
 horizontal: false
 ---
 

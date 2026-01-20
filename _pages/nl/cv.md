@@ -1,13 +1,14 @@
 ---
 layout: cv
 key: cv
-permalink: /fr/cv/
+permalink: /nl/cv/
 title: CV
-lang: fr
+lang: nl
 translations:
+  fr: /fr/cv/
   en: /en/cv/
-  pt: /pt/cv/
-nav: false
+  id: /id/cv/
+nav: true
 nav_order: 4
-cv_pdf: CV_fr.pdf
+cv_pdf: CV_en.pdf
 ---

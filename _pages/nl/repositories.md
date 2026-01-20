@@ -1,14 +1,15 @@
 ---
 layout: page
-permalink: /fr/repositories/
+permalink: /nl/repositories/
 title: GitHub
 key: repositories
 description: Un aperçu rapide de mes contributions open-source.
-nav: false
-lang: fr
+nav: true
+lang: nl
 translations:
+  fr: /fr/repositories/
   en: /en/repositories/
-  pt: /pt/repositories/
+  id: /id/repositories/
 nav_order: 3
 ---
 
