@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Profile
+title: About me
 lang: en
 nav: true
 key: about

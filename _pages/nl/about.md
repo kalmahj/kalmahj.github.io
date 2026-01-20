@@ -1,6 +1,6 @@
 ---
 layout: about
-title: À propos
+title: Over mij
 permalink: /nl/about/
 translations:
   en: /en/about/

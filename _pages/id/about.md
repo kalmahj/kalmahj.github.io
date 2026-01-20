@@ -1,6 +1,6 @@
 ---
 layout: about
-title: À propos
+title: Tentang saya
 permalink: /id/about/
 translations:
   en: /en/about/

@@ -2,34 +2,34 @@
 layout: page
 title: Walkability Mapping
 permalink: /fr/projects/walkability-mapping/
-description: A walkability analysis of a city of your choice using only OSM open data and geospatial tools. 
+description: Une analyse de marché d'une ville de votre choix en utilisant uniquement des données ouvertes OSM et des outils géospatiaux.
 img: assets/img/walkability_thumbnail.PNG
 importance: 1
 category: Mapping
 lang: fr
 --- 
 
-## Project Description
-Cities love to talk about walkability. But how walkable is a city in practice when daily mobility depends so heavily on public transport?
-This project explores that question by producing a spatial walkability score based on access to public transport stops, using only OSM open data and geospatial tools.
+## Description du Projet
+Les villes aiment parler de marchabilité (walkability). Mais à quel point une ville est-elle réellement marchable en pratique lorsque la mobilité quotidienne dépend si fortement des transports en commun ?
+Ce projet explore cette question en produisant un score spatial de marchabilité basé sur l'accès aux arrêts de transports en commun, en utilisant uniquement des données ouvertes OSM et des outils géospatiaux.
 
-*This code was heavily inspired by Afagh Zeydani on Linkedin. Lots of credit goes to him for his work and for sharing it with the community.*
+*Ce code a été fortement inspiré par Afagh Zeydani sur Linkedin. Beaucoup de crédit lui revient pour son travail et pour l'avoir partagé avec la communauté.*
 
-## What you'll expect
-- A walkability score in a box of a sqm of your choice
-- A map of the city with the walkability score + transport stops
-- An automatic folium map generation 
+## À quoi s'attendre
+- Un score de marchabilité dans un carré de votre choix
+- Une carte de la ville avec le score de marchabilité + les arrêts de transport
+- Une génération automatique de carte folium
 
-## How to use it
-My code is very intuitive. All you need to do is modify the location name of your chose in the beginning of the code and run it! 
+## Comment l'utiliser
+Mon code est très intuitif. Il vous suffit de modifier le nom du lieu de votre choix au début du code et de l'exécuter !
 
-*Please respect the format : "City, Country"*
+*Veuillez respecter le format : "Ville, Pays"*
 
-## Example
+## Exemple
 ```python
 city = "Amsterdam, Netherlands"
 ```
-## Libraries used
+## Bibliothèques utilisées
 - osmnx
 - folium
 - geopandas
@@ -38,10 +38,10 @@ city = "Amsterdam, Netherlands"
 - utm
 - branca
 
-## Result
+## Résultat
 <iframe src="/assets/html/amsterdam_walkability_map.html" width="100%" height="500px" style="border:none;"></iframe>
 
-## Interested in reusing the code ? 
+## Intéressé par la réutilisation du code ?
 
 <!-- Button Style (Same as About Page) -->
 <style>
@@ -70,6 +70,6 @@ city = "Amsterdam, Netherlands"
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <a href="https://github.com/kalmahj/Walkability" target="_blank" class="btn-flip">
-        <i class="fab fa-github"></i> Get the Code on GitHub
+        <i class="fab fa-github"></i> Obtenir le code sur GitHub
     </a>
 </div>

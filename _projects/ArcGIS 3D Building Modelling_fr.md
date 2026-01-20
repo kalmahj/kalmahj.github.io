@@ -2,33 +2,33 @@
 layout: page
 title: 3D Building Modelling
 permalink: /fr/projects/3d-building-modelling/
-description: A multipatch 3D building model created using LiDar points and ArcGIS geoprocessing tools.
+description: Un modèle de bâtiment 3D multipatch créé à l'aide de points LiDar et d'outils de géotraitement ArcGIS.
 img: assets/img/lidar_thumbnail.PNG
 importance: 1
 category: Mapping
 lang: fr
 ---
 
-## Project Description
-LiDar data is a powerful tool for creating 3D models of objects. In this project, I used LiDar data and ArcGIS geoprocessing tools to create a multipatch 3D model Gulpen, Netherlands using ArcGIS Pro. 
+## Description du Projet
+Les données LiDar sont un outil puissant pour créer des modèles 3D d'objets. Dans ce projet, j'ai utilisé des données LiDar et des outils de géotraitement ArcGIS pour créer un modèle 3D multipatch de Gulpen, aux Pays-Bas, en utilisant ArcGIS Pro.
 
-## What is Lidar data?
-Light Detection and Ranging (lidar) is a technology used to create high-resolution models of ground elevation with a vertical accuracy of 10 centimeters (4 inches). Lidar equipment, which includes a laser scanner, a Global Positioning System (GPS), and an Inertial Navigation System (INS), is typically mounted on a small aircraft. 
+## Qu'est-ce que les données Lidar ?
+La détection et télémétrie par la lumière (lidar) est une technologie utilisée pour créer des modèles haute résolution de l'élévation du sol avec une précision verticale de 10 centimètres (4 pouces). L'équipement Lidar, qui comprend un scanner laser, un système de positionnement global (GPS) et un système de navigation inertielle (INS), est généralement monté sur un petit avion.
 
-The laser scanner transmits brief pulses of light to the ground surface. **Those pulses are reflected or scattered back and their travel time is used to calculate the distance between the laser scanner and the ground** 
+Le scanner laser transmet de brèves impulsions lumineuses vers la surface du sol. **Ces impulsions sont réfléchies ou diffusées, et leur temps de trajet est utilisé pour calculer la distance entre le scanner laser et le sol.**
 
-Lidar data is initially collected as a “point cloud” of individual points reflected from everything on the surface, including structures and vegetation. To produce a “bare earth” Digital Elevation Model (DEM), structures and vegetation are stripped away (USGS, 2022).
+Les données Lidar sont initialement collectées sous forme de "nuage de points" de points individuels réfléchis par tout ce qui se trouve à la surface, y compris les structures et la végétation. Pour produire un modèle numérique d'élévation (MNE) "sol nu", les structures et la végétation sont supprimées (USGS, 2022).
 
-For example, modern cars use LiDar data to navigate through cities, or sense sudden obstacles on the road a normal camera can't catch.
+Par exemple, les voitures modernes utilisent les données LiDar pour naviguer dans les villes ou détecter des obstacles soudains sur la route qu'une caméra normale ne peut pas voir.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lidar.jpg" title="Lidar data example" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/lidar.jpg" title="Exemple de données Lidar" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-## How to get Lidar data?
-If you are in the US, you can access Lidar data from the USGS (US Geological Survey).
+## Comment obtenir des données Lidar ?
+Si vous êtes aux États-Unis, vous pouvez accéder aux données Lidar auprès de l'USGS (US Geological Survey).
 <!-- Button Style (Consolidated) -->
 <style>
 .btn-zoom {
@@ -56,36 +56,36 @@ If you are in the US, you can access Lidar data from the USGS (US Geological Sur
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <a href="http://apps.nationalmap.gov/lidar-explorer/#/" target="_blank" class="btn-zoom">
-        Click here to access US Lidar data
+        Cliquez ici pour accéder aux données Lidar des États-Unis
     </a>
 </div>
 
-If you are in France, I highly recommend you use the 3D Lidar by IGN (Institut Géographique National). It is a free service provided by the French government.
+Si vous êtes en France, je vous recommande vivement d'utiliser le Lidar 3D de l'IGN (Institut Géographique National). C'est un service gratuit fourni par le gouvernement français.
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <a href="https://geoservices.ign.fr/lidarhd" target="_blank" class="btn-zoom">
-        Click here to access French Lidar data
+        Cliquez ici pour accéder aux données Lidar françaises
     </a>
 </div>
 
-If you are in the Netherlands, I highly recommend you use the 3D Lidar by Actueel Hoogstebestand Nederland (AHN). It is a free service provided by the Dutch government. 
+Si vous êtes aux Pays-Bas, je vous recommande vivement d'utiliser le Lidar 3D de l'Actueel Hoogstebestand Nederland (AHN). C'est un service gratuit fourni par le gouvernement néerlandais.
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <a href="https://www.ahn.nl/dataroom" target="_blank" class="btn-zoom">
-        Click here to access Dutch Lidar data
+        Cliquez ici pour accéder aux données Lidar néerlandaises
     </a>
 </div>
 
-## Result 
+## Résultat 
 <video width="100%" controls>
   <source src="/assets/img/3d_arcgis.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Votre navigateur ne prend pas en charge la balise vidéo.
 </video>
 
-## Interested in following the tutorial?
+## Intéressé par le tutoriel ?
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <a href="https://learn.arcgis.com/fr/projects/extract-3d-buildings-from-lidar-data/" target="_blank" class="btn-zoom">
-        Click here to access tutorial
+        Cliquez ici pour accéder au tutoriel
     </a>
 </div>

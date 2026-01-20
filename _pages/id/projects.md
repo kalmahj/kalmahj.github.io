@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projets
+title: Proyek
 lang: id
 key: projects
 permalink: /id/projects/
@@ -8,7 +8,7 @@ translations:
   en: /en/projects/
   fr: /fr/projects/
   nl: /nl/projects/
-description: Une collection de quelques projets intéressants.
+description: Klik setiap proyek untuk mengetahui lebih lanjut tentangnya!
 nav: true
 nav_order: 2
 display_categories: [Mapping, Articles]
