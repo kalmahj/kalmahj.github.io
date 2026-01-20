@@ -11,7 +11,7 @@ permalink: /fr/certification/
 description: Mes prix, certifications et diplômes.
 nav: true
 nav_order: 3
-display_categories: [Awards, Certifications, Diplomas]
+display_categories: [Prix, Certificats, Diplômes]
 horizontal: false
 ---
 

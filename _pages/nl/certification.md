@@ -11,7 +11,7 @@ permalink: /nl/certification/
 description: Mijn onderscheidingen, certificeringen en diploma's.
 nav: true
 nav_order: 3
-display_categories: [Awards, Certifications, Diplomas]
+display_categories: [Prijzen, Certificaten, Diploma's]
 horizontal: false
 ---
 
