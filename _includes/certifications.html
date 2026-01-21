@@ -1,15 +1,23 @@
-<div class="card mt-3 mb-3 shadow-md hoverable">
-    <div class="card-body">
-        <div class="row align-items-center">
-            <div class="col-md-11">
-                <h5 class="card-title font-weight-bold mb-1">{{ project.title }}</h5>
-                <p class="card-text text-muted mb-0">{{ project.description }}</p>
-            </div>
-            <div class="col-md-1 text-center d-none d-md-block">
-                <a href="{{ project.url | relative_url }}" class="stretched-link text-decoration-none text-muted">
-                    <i class="fas fa-chevron-right fa-lg"></i>
-                </a>
-            </div>
-        </div>
+<div class="card mt-3 mb-3 shadow-sm border-0 transition-all">
+    <div class="card-body p-4">
+        <a href="{{ project.url | relative_url }}" class="text-decoration-none stretched-link">
+            <h5 class="card-title font-weight-bold mb-2 text-dark">{{ project.title }}</h5>
+            <p class="card-text text-muted mb-0">{{ project.description }}</p>
+        </a>
     </div>
 </div>
+
+<style>
+    .transition-all {
+        transition: all 0.3s ease;
+    }
+
+    .card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    }
+
+    .card a:hover h5 {
+        color: #0066cc !important;
+    }
+</style>

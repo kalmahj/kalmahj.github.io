@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tracking Brasilia's Urban Evolution through Remote Sensing
+title: Detecting Brasilia's Urban Evolution
 permalink: /projects/remote_sensing_brazilia/
-description: Usage of ENVI and Landsat images
+description: Remote sensing analysis using ENVI and Landsat images
 img: assets/img/rs_brazilia_fig5.jpg
 importance: 1
 category: Articles
