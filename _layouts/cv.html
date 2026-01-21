@@ -2,182 +2,47 @@
 layout: default
 ---
 
-<div class="cv-page">
+<div class="post">
 
-  <header class="cv-header">
-    <div class="cv-header-content">
-      <h1 class="cv-title">{{ page.title }}</h1>
-      {% if page.description %}
-      <p class="cv-subtitle">{{ page.description }}</p>
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title }}
+      {% if page.cv_pdf %}
+      <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"
+        class="float-right">
+        <i class="fas fa-file-pdf"></i>
+      </a>
       {% endif %}
-    </div>
-    {% if page.cv_pdf %}
-    <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"
-      class="cv-download-btn">
-      <i class="fas fa-download"></i>
-      <span>Download PDF</span>
-    </a>
-    {% endif %}
+    </h1>
+    <p class="post-description">{{ page.description }}</p>
   </header>
 
-  <article class="cv-content">
+  <article>
+    <div class="cv">
 
-    {%- assign lang = page.lang | default: "en" -%}
-    {%- assign cv_file = "cv_" | append: lang -%}
+      {%- assign lang = page.lang | default: "en" -%}
+      {%- assign cv_file = "cv_" | append: lang -%}
 
-    {% for entry in site.data[cv_file] %}
-    <section class="cv-section">
-      <h2 class="cv-section-title">{{ entry.title }}</h2>
-      <div class="cv-section-content">
-        {% if entry.type == "list" %}
-        {% include cv/list.html %}
-        {% elsif entry.type == "map" %}
-        {% include cv/map.html %}
-        {% elsif entry.type == "nested_list" %}
-        {% include cv/nested_list.html %}
-        {% elsif entry.type == "time_table" %}
-        {% include cv/time_table.html %}
-        {% else %}
-        {{ entry.contents }}
-        {% endif %}
+      {% for entry in site.data[cv_file] %}
+      <div class="card mt-3 p-3">
+        <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+        <div>
+          {% if entry.type == "list" %}
+          {% include cv/list.html %}
+          {% elsif entry.type == "map" %}
+          {% include cv/map.html %}
+          {% elsif entry.type == "nested_list" %}
+          {% include cv/nested_list.html %}
+          {% elsif entry.type == "time_table" %}
+          {% include cv/time_table.html %}
+          {% else %}
+          {{ entry.contents }}
+          {% endif %}
+        </div>
       </div>
-    </section>
-    {% endfor %}
+      {% endfor %}
 
+    </div>
   </article>
 
 </div>
-
-<style>
-  .cv-page {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 2rem 1rem;
-    background: #ffffff;
-  }
-
-  .cv-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    padding-bottom: 2rem;
-    margin-bottom: 3rem;
-    border-bottom: 2px solid #e5e7eb;
-  }
-
-  .cv-header-content {
-    flex: 1;
-  }
-
-  .cv-title {
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: #111827;
-    margin: 0 0 0.5rem 0;
-    letter-spacing: -0.025em;
-  }
-
-  .cv-subtitle {
-    font-size: 1.125rem;
-    color: #6b7280;
-    margin: 0;
-    font-weight: 400;
-  }
-
-  .cv-download-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.5rem;
-    background: #111827;
-    color: #ffffff;
-    text-decoration: none;
-    border-radius: 0.5rem;
-    font-weight: 500;
-    font-size: 0.875rem;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-  }
-
-  .cv-download-btn:hover {
-    background: #1f2937;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-  }
-
-  .cv-download-btn i {
-    font-size: 1rem;
-  }
-
-  .cv-content {
-    display: flex;
-    flex-direction: column;
-    gap: 2.5rem;
-  }
-
-  .cv-section {
-    position: relative;
-  }
-
-  .cv-section-title {
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: #111827;
-    margin: 0 0 1.25rem 0;
-    padding-bottom: 0.75rem;
-    border-bottom: 1px solid #e5e7eb;
-    letter-spacing: -0.01em;
-  }
-
-  .cv-section-content {
-    padding-left: 0.5rem;
-  }
-
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    .cv-page {
-      padding: 1.5rem 1rem;
-    }
-
-    .cv-header {
-      flex-direction: column;
-      gap: 1.5rem;
-    }
-
-    .cv-title {
-      font-size: 2rem;
-    }
-
-    .cv-subtitle {
-      font-size: 1rem;
-    }
-
-    .cv-download-btn {
-      width: 100%;
-      justify-content: center;
-    }
-
-    .cv-section-title {
-      font-size: 1.125rem;
-    }
-  }
-
-  @media print {
-    .cv-page {
-      max-width: 100%;
-      padding: 0;
-    }
-
-    .cv-download-btn {
-      display: none;
-    }
-
-    .cv-header {
-      margin-bottom: 2rem;
-    }
-
-    .cv-section {
-      page-break-inside: avoid;
-    }
-  }
-</style>
