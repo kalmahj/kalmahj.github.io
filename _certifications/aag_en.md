@@ -13,7 +13,7 @@ I was chosen among my classmates to present my master's thesis entitled **Spatia
 The abstact is part of the **Spatial Optimisation and Analysis Session**.
 
 ## Date of presentation
-**17th March 2026**
+**17th ofMarch 2026**
 
 ## Abstract
 <div class="row justify-content-sm-center">

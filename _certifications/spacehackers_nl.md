@@ -29,6 +29,7 @@ Als onderdeel van een team van 5 studenten van **CY Cergy Paris Université**, e
     </div>
 </div>
 
+## Winnaar plakette
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/spackehackers_certificate.jpg" caption="Winnaarsplaquette van SpaceHackers for Sustainability 2025" class="img-fluid rounded z-depth-1" %}

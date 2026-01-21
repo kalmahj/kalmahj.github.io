@@ -8,7 +8,6 @@ translations:
   fr: /fr/certification/
   id: /id/certification/
 permalink: /nl/certification/
-description: Mijn onderscheidingen, certificeringen en prestaties.
 nav: true
 nav_order: 3
 display_categories: [Prijzen, Certificaten, Prestaties]

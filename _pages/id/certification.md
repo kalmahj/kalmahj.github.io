@@ -8,7 +8,6 @@ translations:
   fr: /fr/certification/
   nl: /nl/certification/
 permalink: /id/certification/
-description: Penghargaan, sertifikat, dan pencapaian saya.
 nav: true
 nav_order: 3
 display_categories: [Penghargaan, Sertifikat, Pencapaian]

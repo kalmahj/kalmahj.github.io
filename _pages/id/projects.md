@@ -8,7 +8,7 @@ translations:
   en: /en/projects/
   fr: /fr/projects/
   nl: /nl/projects/
-description: Klik setiap proyek untuk mengetahui lebih lanjut tentangnya!
+available: true
 nav: true
 nav_order: 2
 display_categories: [Mapping, Articles]

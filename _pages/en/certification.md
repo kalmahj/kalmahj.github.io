@@ -8,7 +8,6 @@ translations:
   nl: /nl/certification/
   id: /id/certification/
 permalink: /en/certification/
-description: My awards, certifications, and accomplishments.
 nav: true
 nav_order: 3
 display_categories: [Awards, Certifications, Accomplishments]

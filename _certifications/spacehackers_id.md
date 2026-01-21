@@ -29,6 +29,7 @@ Sebagai bagian dari tim yang terdiri dari 5 mahasiswa dari **CY Cergy Paris Univ
     </div>
 </div>
 
+## Plakat pemenang
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/spackehackers_certificate.jpg" caption="Plakat pemenang SpaceHackers for Sustainability 2025" class="img-fluid rounded z-depth-1" %}

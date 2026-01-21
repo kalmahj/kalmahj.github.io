@@ -8,7 +8,6 @@ translations:
   en: /en/projects/
   fr: /fr/projects/
   id: /id/projects/
-description: Klik op een project om er meer over te ontdekken!
 nav: true
 nav_order: 2
 display_categories: [Mapping, Articles]

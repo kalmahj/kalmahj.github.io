@@ -29,7 +29,7 @@ Apart of a team of 5 students from **CY Cergy Paris University**, we came first 
     </div>
 </div>
 
-
+## Winner's plaque
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/spackehackers_certificate.jpg" caption="Winner plaque of SpaceHackers for Sustainability 2025" class="img-fluid rounded z-depth-1" %}

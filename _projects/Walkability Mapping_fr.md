@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Walkability Mapping
+title: Cartographie de la marchabilité
 permalink: /fr/projects/walkability-mapping/
 description: Une analyse de marché d'une ville de votre choix en utilisant uniquement des données ouvertes OSM et des outils géospatiaux.
 img: assets/img/walkability_thumbnail.PNG
