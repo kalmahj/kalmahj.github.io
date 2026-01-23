@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Échec & Map - Sebuah aplikasi untuk pecinta permainan papan
+title: Echec & Map - Sebuah aplikasi untuk pecinta permainan papan
 permalink: /projects/echec_map/
 description: Sebuah aplikasi Streamlit yang memetakan semua bar permainan di Paris, Prancis, lengkap dengan detail permainan papan yang tersedia.
-img: assets/img/echec_map.PNG
+img: assets/img/echec_map.png
 importance: 1
 category: Pemetaan
 lang: id
@@ -29,3 +29,4 @@ Catatan: aplikasi ini belum sempurna, tetapi ini adalah upaya kami dalam mencipt
         Klik di sini untuk mengakses aplikasi
     </a>
 </div>
+

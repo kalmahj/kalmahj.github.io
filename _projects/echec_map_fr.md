@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Échec & Map - Une application pour les passionnés de jeux de société
+title: Echec & Map - Une application pour les passionnés de jeux de société
 permalink: /projects/echec_map/
 description: Une application Streamlit qui cartographie tous les bars à jeux de Paris, France, avec le détail des jeux de société qu’ils proposent.
-img: assets/img/echec_map.PNG
+img: assets/img/echec_map.png
 importance: 1
 category: Cartographie
 lang: fr
@@ -24,6 +24,6 @@ Avertissement : ce n’est pas parfait, mais c’est notre tentative de créer n
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <a href="https://echec-map.streamlit.app/" target="_blank" class="btn-zoom">
-        Cliquez ici pour accéder à l’application
+        Cliquer ici pour accéder à l'application
     </a>
 </div>
