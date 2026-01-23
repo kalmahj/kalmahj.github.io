@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Echec & Map - Een applicatie voor liefhebbers van bordspellen
+title: Echec & Map
 permalink: /nl/projects/echec_map/
 description: Een Streamlit-applicatie die alle spelcafés in Parijs, Frankrijk, in kaart brengt, met details over de bordspellen die zij aanbieden.
 img: assets/img/echec_map.jpg
