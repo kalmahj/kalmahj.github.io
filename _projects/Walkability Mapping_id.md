@@ -5,7 +5,7 @@ permalink: /id/projects/walkability-mapping/
 description: Analisis kemudahan berjalan kaki dari kota pilihan Anda menggunakan hanya data terbuka OSM dan alat geospasial.
 img: assets/img/walkability_thumbnail.PNG
 importance: 1
-category: Mapping
+category: Pemetaan
 lang: id
 --- 
 

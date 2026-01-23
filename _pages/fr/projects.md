@@ -9,7 +9,7 @@ translations:
   id: /id/projects/
   nl: /nl/projects/
 nav_order: 2
-display_categories: [Mapping, Articles]
+display_categories: [Cartographie, Articles]
 horizontal: false
 ---
 

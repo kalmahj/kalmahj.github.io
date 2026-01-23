@@ -11,7 +11,7 @@ translations:
 available: true
 nav: true
 nav_order: 2
-display_categories: [Mapping, Articles]
+display_categories: [Pemetaan, Artikel]
 horizontal: false
 ---
 

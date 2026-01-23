@@ -5,7 +5,7 @@ permalink: /id/projects/gis-participatory-surveys/
 description: Menggunakan GIS untuk menganalisis survei partisipatif tentang hak-hak anak di Afrika Barat.
 img: assets/img/sgur_map.png
 importance: 3
-category: Articles
+category: Artikel
 lang: id
 ---
 

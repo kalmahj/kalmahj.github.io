@@ -5,8 +5,8 @@ permalink: /id/projects/3d-building-modelling/
 description: Model bangunan 3D multipatch yang dibuat menggunakan titik LiDar dan alat geoprocessing ArcGIS.
 img: assets/img/lidar_thumbnail.PNG
 importance: 1
-category: Mapping
-lang: id
+category: Pemetaan
+lang: id    
 ---
 
 ## Deskripsi Proyek

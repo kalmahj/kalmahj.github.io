@@ -5,7 +5,7 @@ permalink: /id/projects/electory_gis/
 description: Mengungkap realitas elektoral melalui pemetaan selama Pemilu Eropa 2024
 img: assets/img/electory_gis.jpg
 importance: 1
-category: Mapping
+category: Pemetaan
 lang: id
 ---
 

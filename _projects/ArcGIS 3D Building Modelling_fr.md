@@ -5,7 +5,7 @@ permalink: /fr/projects/3d-building-modelling/
 description: Un modèle de bâtiment 3D multipatch créé à l'aide de points LiDar et d'outils de géotraitement ArcGIS.
 img: assets/img/lidar_thumbnail.PNG
 importance: 1
-category: Mapping
+category: Cartographie
 lang: fr
 ---
 

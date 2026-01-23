@@ -10,7 +10,7 @@ translations:
   id: /id/projects/
 nav: true
 nav_order: 2
-display_categories: [Mapping, Articles]
+display_categories: [Mapping, Artikelen]
 horizontal: false
 ---
 

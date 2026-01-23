@@ -5,7 +5,7 @@ permalink: /fr/projects/walkability-mapping/
 description: Une analyse de marché d'une ville de votre choix en utilisant uniquement des données ouvertes OSM et des outils géospatiaux.
 img: assets/img/walkability_thumbnail.PNG
 importance: 1
-category: Mapping
+category: Cartographie
 lang: fr
 --- 
 

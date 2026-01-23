@@ -5,7 +5,7 @@ permalink: /fr/projects/electory_gis/
 description: Révéler les réalités électorales par la cartographie lors des élections européennes 2024
 img: assets/img/electory_gis.jpg
 importance: 1
-category: Mapping
+category: Cartographie
 lang: fr
 ---
 

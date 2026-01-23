@@ -5,7 +5,7 @@ permalink: /id/projects/remote_sensing_brazilia/
 description: Penggunaan ENVI dan gambar Landsat
 img: assets/img/rs_brazilia_fig5.jpg
 importance: 1
-category: Articles
+category: Artikel
 lang: id
 ---
 

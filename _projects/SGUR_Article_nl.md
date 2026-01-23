@@ -5,7 +5,7 @@ permalink: /nl/projects/gis-participatory-surveys/
 description: Gebruik van GIS om participatieve enquêtes over kinderrechten in West-Afrika te analyseren.
 img: assets/img/sgur_map.png
 importance: 3
-category: Articles
+category: Artikelen
 lang: nl
 ---
 
