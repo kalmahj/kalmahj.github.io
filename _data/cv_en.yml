@@ -29,7 +29,7 @@
     
     - title: Bachelors Degree - Geography & Urban Planning
       institution: Sorbonne Université, Paris IV
-      year: 2016 - 2023
+      year: 2021 - 2024
       description:
         - "Graduated with honours"
         - "One-week intensive urban diagnosis research in Grenoble, France focused on urban cut-offs (spatial barriers that disrupt pedestrian movement and urban connectivity)"
@@ -42,7 +42,7 @@
       institution: EDF, La Défense
       year: 2024 - Present
       description:
-        - "Head developer of **Mobelec PNR**, an internal GIS website for French government authorities to evaluate mobility electrification goals in French regional national parks for 2030"
+        - "Head developer of Mobelec PNR, an internal GIS website for French government authorities to evaluate mobility electrification goals in French regional national parks for 2030"
         - "Develop GIS dashboards and interactive maps to support clean mobility strategies"
         - "Analyze spatial patterns of energy consumption across French territories using French open data and EDF internal datasets"
     
