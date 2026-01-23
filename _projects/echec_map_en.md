@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Echec & Map - An application for Board game lovers
-permalink: /projects/echec_map/
+permalink: /en/projects/echec_map/
 description: A streamlit application that maps all the game bars in Paris, France with the detail of the board games they offer.
 img: assets/img/echec_map.png
 importance: 1
