@@ -80,7 +80,7 @@ All you need to do is insert the **INSEE code** of any commune in France and the
 </style>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
-    <a href="https://github.com/kalmahj/zombie-map" target="_blank" class="btn-flip">
+    <a href="https://github.com/kalmahj/zombification-risk-map" target="_blank" class="btn-flip">
         <i class="fab fa-github"></i> Get the Code on GitHub
     </a>
 </div>

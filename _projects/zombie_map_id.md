@@ -80,7 +80,7 @@ Yang perlu Anda lakukan adalah memasukkan **kode INSEE** dari komune mana saja d
 </style>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
-    <a href="https://github.com/kalmahj/zombie-map" target="_blank" class="btn-flip">
+    <a href="https://github.com/kalmahj/zombification-risk-map" target="_blank" class="btn-flip">
         <i class="fab fa-github"></i> Dapatkan Kode di GitHub
     </a>
 </div>

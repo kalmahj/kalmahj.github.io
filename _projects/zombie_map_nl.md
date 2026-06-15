@@ -80,7 +80,7 @@ Het enige wat u hoeft te doen is de **INSEE-code** van een willekeurige gemeente
 </style>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
-    <a href="https://github.com/kalmahj/zombie-map" target="_blank" class="btn-flip">
+    <a href=https://github.com/kalmahj/zombification-risk-map" target="_blank" class="btn-flip">
         <i class="fab fa-github"></i> Haal de code op GitHub
     </a>
 </div>

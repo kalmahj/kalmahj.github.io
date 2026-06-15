@@ -14,7 +14,7 @@ lang: fr
 Ce code est un tutoriel sur comment construire une **carte de risque de zombification** scorée par IRIS en France.
 
 Plus le score est élevé, plus l'IRIS est dangereux :
-- 🪦 Plus le nombre de cimetières dans l'IRIS est élevé & plus il est proche d'un cimetière (×0.35)
+- Plus le nombre de cimetières dans l'IRIS est élevé & plus il est proche d'un cimetière (×0.35)
 - Plus l'IRIS est proche d'un aéroport (×0.20)
 - Plus la densité de population est élevée (×0.15)
 - Plus le ratio de personnes âgées de 75 ans et plus est élevé (×0.10)
@@ -80,7 +80,7 @@ Il suffit d'insérer le **code INSEE** de n'importe quelle commune en France et 
 </style>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
-    <a href="https://github.com/kalmahj/zombie-map" target="_blank" class="btn-flip">
+    <a href="https://github.com/kalmahj/zombification-risk-map" target="_blank" class="btn-flip">
         <i class="fab fa-github"></i> Obtenir le code sur GitHub
     </a>
 </div>
