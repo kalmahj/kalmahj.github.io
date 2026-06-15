@@ -3,7 +3,7 @@ layout: page
 title: Zombificatierisico in Kaart Brengen
 permalink: /nl/projects/zombie-map/
 description: Een tutorial voor het bouwen van een zombificatierisicokaart per IRIS in Frankrijk met open data van OSM en INSEE.
-img: assets/img/image_bat.PNG
+img: assets/img/zombie_thumbnail.jpg
 importance: 2
 category: Mapping
 lang: nl
@@ -15,11 +15,11 @@ Deze code is een tutorial over hoe je een **zombificatierisicokaart** opbouwt pe
 
 Hoe hoger de score, hoe gevaarlijker de IRIS:
 - 🪦 Hoe meer begraafplaatsen in de IRIS & hoe dichter bij een begraafplaats (×0.35)
-- ✈️ Hoe dichter de IRIS bij een luchthaven ligt (×0.20)
-- 👥 Hoe hoger de bevolkingsdichtheid (×0.15)
-- 👴 Hoe hoger het aandeel personen van 75 jaar en ouder (×0.10)
-- ♿ Hoe hoger het aantal gehandicapten met een AAH-uitkering (×0.10)
-- 🔫 Hoe dichter bij een wapenwinkel (×0.10)
+- Hoe dichter de IRIS bij een luchthaven ligt (×0.20)
+- Hoe hoger de bevolkingsdichtheid (×0.15)
+- Hoe hoger het aandeel personen van 75 jaar en ouder (×0.10)
+- Hoe hoger het aantal gehandicapten met een AAH-uitkering (×0.10)
+- Hoe dichter bij een wapenwinkel (×0.10)
 
 Het enige wat u hoeft te doen is de **INSEE-code** van een willekeurige gemeente in Frankrijk invoeren, waarna het script automatisch een risicokaart genereert.
 

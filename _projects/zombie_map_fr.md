@@ -3,7 +3,7 @@ layout: page
 title: Cartographie du Risque de Zombification
 permalink: /fr/projects/zombie-map/
 description: Un tutoriel pour construire une carte de risque de zombification par IRIS en France à partir de données ouvertes OSM et INSEE.
-img: assets/img/image_bat.PNG
+img: assets/img/zombie_thumbnail.jpg
 importance: 2
 category: Cartographie
 lang: fr
@@ -15,11 +15,11 @@ Ce code est un tutoriel sur comment construire une **carte de risque de zombific
 
 Plus le score est élevé, plus l'IRIS est dangereux :
 - 🪦 Plus le nombre de cimetières dans l'IRIS est élevé & plus il est proche d'un cimetière (×0.35)
-- ✈️ Plus l'IRIS est proche d'un aéroport (×0.20)
-- 👥 Plus la densité de population est élevée (×0.15)
-- 👴 Plus le ratio de personnes âgées de 75 ans et plus est élevé (×0.10)
-- ♿ Plus le nombre de personnes handicapées bénéficiant de l'AAH est élevé (×0.10)
-- 🔫 Plus l'IRIS est proche d'un magasin d'armes (×0.10)
+- Plus l'IRIS est proche d'un aéroport (×0.20)
+- Plus la densité de population est élevée (×0.15)
+- Plus le ratio de personnes âgées de 75 ans et plus est élevé (×0.10)
+- Plus le nombre de personnes handicapées bénéficiant de l'AAH est élevé (×0.10)
+- Plus l'IRIS est proche d'un magasin d'armes (×0.10)
 
 Il suffit d'insérer le **code INSEE** de n'importe quelle commune en France et le script génère automatiquement une carte de risque.
 

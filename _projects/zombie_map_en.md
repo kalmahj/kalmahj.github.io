@@ -3,7 +3,7 @@ layout: page
 title: Zombification Risk Mapping
 permalink: /projects/zombie-map/
 description: A tutorial on how to build a zombification risk map per IRIS in France using open data from OSM and INSEE.
-img: assets/img/image_bat.PNG
+img: assets/img/zombie_thumbnail.jpg
 importance: 2
 category: Mapping
 lang: en

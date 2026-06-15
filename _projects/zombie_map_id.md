@@ -3,7 +3,7 @@ layout: page
 title: Pemetaan Risiko Zombifikasi
 permalink: /id/projects/zombie-map/
 description: Tutorial membuat peta risiko zombifikasi per IRIS di Prancis menggunakan data terbuka OSM dan INSEE.
-img: assets/img/image_bat.PNG
+img: assets/img/zombie_thumbnail.jpg
 importance: 2
 category: Pemetaan
 lang: id
@@ -15,11 +15,11 @@ Kode ini adalah tutorial tentang cara membuat **peta risiko zombifikasi** yang d
 
 Semakin tinggi skor, semakin berbahaya IRIS tersebut:
 - 🪦 Semakin banyak pemakaman dalam IRIS & semakin dekat dengan pemakaman (×0.35)
-- ✈️ Semakin dekat IRIS dengan bandara (×0.20)
-- 👥 Semakin tinggi kepadatan penduduk (×0.15)
-- 👴 Semakin tinggi rasio penduduk berusia 75 tahun ke atas (×0.10)
-- ♿ Semakin banyak penyandang disabilitas penerima AAH (×0.10)
-- 🔫 Semakin dekat dengan toko senjata (×0.10)
+- Semakin dekat IRIS dengan bandara (×0.20)
+- Semakin tinggi kepadatan penduduk (×0.15)
+- Semakin tinggi rasio penduduk berusia 75 tahun ke atas (×0.10)
+- Semakin banyak penyandang disabilitas penerima AAH (×0.10)
+- Semakin dekat dengan toko senjata (×0.10)
 
 Yang perlu Anda lakukan adalah memasukkan **kode INSEE** dari komune mana saja di Prancis, dan skrip akan secara otomatis menghasilkan peta risiko.
 
